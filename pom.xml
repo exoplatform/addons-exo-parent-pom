@@ -4,12 +4,12 @@
   <parent>
     <artifactId>maven-parent-pom</artifactId>
     <groupId>org.exoplatform</groupId>
-    <version>25-exo-M07</version>
+    <version>26-exo-M01</version>
     <relativePath />
   </parent>
   <groupId>org.exoplatform.addons</groupId>
   <artifactId>addons-parent-exo-pom</artifactId>
-  <version>16-SNAPSHOT</version>
+  <version>17-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>eXo AddOns Parent POM</name>
   <description>Maven Parent POM for eXo AddOns projects</description>
