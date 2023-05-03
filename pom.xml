@@ -2,16 +2,16 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <artifactId>maven-parent-pom</artifactId>
+    <artifactId>maven-exo-parent-pom</artifactId>
     <groupId>org.exoplatform</groupId>
     <version>26-exo-M01</version>
     <relativePath />
   </parent>
   <groupId>org.exoplatform.addons</groupId>
-  <artifactId>addons-parent-exo-pom</artifactId>
+  <artifactId>addons-exo-parent-pom</artifactId>
   <version>17-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>eXo AddOns Parent POM</name>
+  <name>eXo Platform AddOns Parent POM</name>
   <description>Maven Parent POM for eXo AddOns projects</description>
   <scm>
     <connection>scm:git:git://github.com/exo-addons/addons-parent-pom.git</connection>
